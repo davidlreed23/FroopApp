@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Xander_Lumin_a_group_of_friends_enjoying_a_karaoke_night_togeth_3c24424e-1a60-49af-a9d8-9b5887e37236.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

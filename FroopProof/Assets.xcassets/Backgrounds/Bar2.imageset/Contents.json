@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Xander_Lumin_friends_getting_together_for_drinks_at_the_bar._Cu_38970e95-7860-471e-b771-045b9be4565d.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

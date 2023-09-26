@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Xander_Lumin_lots_of_kids_having_a_birthday_party._Custom_backg_aea7f4df-8a4a-4fd1-8577-69da10fad76c.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

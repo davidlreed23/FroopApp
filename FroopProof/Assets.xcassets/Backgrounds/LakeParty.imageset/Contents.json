@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Xander_Lumin_A_bunch_of_friends_enjoying_a_boat_party_on_a_lake_8ff45c67-9c58-4e60-8657-59d55220de3b.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

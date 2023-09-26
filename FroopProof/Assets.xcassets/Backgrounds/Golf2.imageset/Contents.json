@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Xander_Lumin_a_group_of_friends_playing_golf_having_fun_togethe_96d1d566-11b6-4838-af99-dafda902c6d8.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
